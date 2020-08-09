@@ -28,17 +28,19 @@ I'm someone who you should remember;
 <br><br>
 
 I have the following soft skills...
-<ul>
-  <li>Confident</li>
-  <li>Concise</li>
-  <li>Empathetic</li>
-  <li>Friendly</li>
-  <li>Curious</li>
-  <li>Calm</li>
-  <li>Open-minded</li>
-  <li>Imaginative</li>
-  <li>Hard Working</li>
- </ul>
+<table>
+  <tr>
+    <td>Confident</td>
+    <td>Concise</td>
+    <td>Empathetic</td>
+    <td>Friendly</td>
+    <td>Curious</td>
+    <td>Calm</td>
+    <td>Open-minded</td>
+    <td>Imaginative</td>
+    <td>Hard Working</td>
+  </tr>
+ </table>
 
 [![Lucas Pichette's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Pichette&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
