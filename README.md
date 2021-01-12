@@ -5,7 +5,7 @@ I'm someone who you should remember;
   <li> I'm currently working on GoldFoxEdu.com</li>
   <ul>
     <li>
-      GoldFoxEdu.com is a website which provides free education for the aspiring, in the following categories: Amazon Web Services, Python, C, Game Development, Website Creation, and Boto. As of right now this project is still in early and active development, but can be seen [here](https://www.goldfoxedu.com).
+      TheCloudFox.com is a website which provides free education for the aspiring, for Amazon Web Services. As of right now this project is still in early and active development, but can be seen [here](http://www.thecloudfox.com).
     </li>
   </ul>
   <li>I'm currently a Junior at Oregon State University, majoring in Computer Science, and I will be an AWS-SA after graduation.</li>
