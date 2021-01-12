@@ -2,7 +2,7 @@
 
 I'm someone who you should remember;
 <ul>
-  <li> I'm currently working on GoldFoxEdu.com</li>
+  <li> I'm currently working on TheCloudFox.com</li>
   <ul>
     <li>
       TheCloudFox.com is a website which provides free education for the aspiring, for Amazon Web Services. As of right now this project is still in early and active development, but can be seen [here](http://www.thecloudfox.com).
