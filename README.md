@@ -2,7 +2,7 @@
 
 I'm someone who you should remember;
 <ul>
-  <li>I'm an aspiring <a src="https://www.lucaspichette.com/">AWS Solutions Architect</a></li>
+  <li>I'm an aspiring [AWS Solutions Architect](https://www.lucaspichette.com/)</a></li>
   <li>I'm currently a Junior at Oregon State University, majoring in Computer Science, and I will be an AWS-SA after graduation.</li>
   <li>Pronouns are He/Him, and if you'd like to contact me, please do so by sending me an email at <a href="mailto:lucascpichette@gmail.com">lucascpichette@gmail.com</a></li>
   <li>I know the following languages and tools...</li>
