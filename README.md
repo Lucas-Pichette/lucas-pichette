@@ -6,6 +6,7 @@ I'm someone who you should remember;
   <li>See the project I'm currently working on <a href="http://127.0.0.1:5500/index.html">here</a></li>
   <li>I'm currently a Junior at Oregon State University, majoring in Computer Science, and I will be an AWS-SA after graduation.</li>
   <li>Pronouns are He/Him, and if you'd like to contact me, please do so by sending me an email at <a href="mailto:lucascpichette@gmail.com">lucascpichette@gmail.com</a></li>
+  <li>I'm AWS Certified: <a href="https://www.youracclaim.com/badges/02640993-3cfe-4694-80e6-a9e00b618281?source=linked_in_profile">Cloud Practitioner</a></li>
   <li>I know the following languages and tools...</li>
 </ul>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
