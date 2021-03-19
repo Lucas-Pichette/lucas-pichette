@@ -3,7 +3,7 @@
 I'm someone you should remember;
 <ul>
   <li>I'm an aspiring <a href="https://www.lucaspichette.com/">AWS Solutions Architect</a></li>
-  <li>See the project I'm currently working on <a href="http://127.0.0.1:5500/index.html">here</a></li>
+  <li>See the project I'm currently working on <a href="https://thecloudfox.com">here</a></li>
   <li>I'm currently a Junior at Oregon State University, majoring in Computer Science, and I will be an AWS-SA after graduation.</li>
   <li>Pronouns are He/Him, and if you'd like to contact me, please do so by sending me an email at <a href="mailto:lucascpichette@gmail.com">lucascpichette@gmail.com</a></li>
   <li>I'm AWS Certified: <a href="https://www.youracclaim.com/badges/02640993-3cfe-4694-80e6-a9e00b618281?source=linked_in_profile">Cloud Practitioner</a></li>
